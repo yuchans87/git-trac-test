@@ -30,3 +30,4 @@ repository = yuchans87/git-trac-test
 
 2015-04-13 14:21 resync
 
+2015-04-13 14:27 clone resync
