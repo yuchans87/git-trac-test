@@ -28,3 +28,5 @@ repository = yuchans87/git-trac-test
 
 2015-04-13 13:32 テスト ログを debug に。
 
+2015-04-13 14:21 resync
+
