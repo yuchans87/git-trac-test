@@ -18,3 +18,7 @@
 2015-04-13 12:16 テスト x-www-form-urlencoded がダメだった。
 
 2015-04-13 12:16 テスト /var/git/git-trac-test.git/hooks/update /var/git/git-trac-test.git/hooks/post-update
+
+2015-04-13 12:48 テスト
+[github]
+repository = yuchans87/git-trac-test
