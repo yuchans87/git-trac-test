@@ -35,3 +35,5 @@ repository = yuchans87/git-trac-test
 2015-04-13 14:34 [git] delete
 
 2015-04-13 16:57 sudo trac-admin /var/trac/git-trac-test/ changeset added /var/git/git-trac-test.git/ 1cb9f21c1a327a9629f7e352991d2964890f7b16
+
+2015-04-13 18:26 テスト
