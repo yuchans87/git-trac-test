@@ -26,3 +26,5 @@ repository = yuchans87/git-trac-test
 エラー
 2015-04-13 12:49:20,935 Trac[github] ERROR: Payload contains unknown commit 2fa96899bc635aa7905a57f0f10cb2fc6996eaae
 
+2015-04-13 13:32 テスト ログを debug に。
+
