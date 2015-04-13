@@ -43,3 +43,6 @@ repository = yuchans87/git-trac-test
 2015-04-13 18:35 repo_name = '(default)'
 
 2015-04-13 18:56 テスト
+
+2015-04-13 19:09 テスト
+
