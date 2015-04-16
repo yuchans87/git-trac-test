@@ -73,3 +73,5 @@ repository = yuchans87/git-trac-test
 
 2015-04-16 11:41 error.log OK / $_POST['payload'] テスト
 
+2015-04-16 11:51 $data = $_POST["payload"];
+
