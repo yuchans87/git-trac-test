@@ -67,3 +67,4 @@ repository = yuchans87/git-trac-test
 
 2015-04-16 11:31 php.ini error_log = /var/log/payload/php_errors.log
 
+2015-04-16 11:33 error.log
