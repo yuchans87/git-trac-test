@@ -65,3 +65,5 @@ repository = yuchans87/git-trac-test
 
 2015-04-16 11:28 nginx restart / php-fpm restart
 
+2015-04-16 11:31 php.ini error_log = /var/log/payload/php_errors.log
+
