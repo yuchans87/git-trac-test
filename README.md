@@ -60,3 +60,6 @@ repository = yuchans87/git-trac-test
 2015-04-16 11:14 $log_file = "/var/log/payload/payload.log";
 
 2015-04-16 11:20 $ touch /var/log/payload/payload.log
+
+2015-04-16 11:24 error_log(print_r($params, true), 3, 'php_errors.log');
+
