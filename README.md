@@ -71,3 +71,5 @@ repository = yuchans87/git-trac-test
 
 2015-04-16 11:37 /var/log/payload/error.log
 
+2015-04-16 11:41 error.log OK / $_POST['payload'] テスト
+
