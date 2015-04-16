@@ -55,3 +55,4 @@ repository = yuchans87/git-trac-test
 2015-04-16 10:54 github push payload テスト
 2015-04-16 11:06 test-json.php
 
+2015-04-16 11:10 Permission denied だったので、もう一回($log_file = "/var/log/nginx/payload.log";)
